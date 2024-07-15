@@ -2,7 +2,7 @@
 # Guilherme Machado
 <br>
 
-Hellooo! My name is Guilherme, I'm 20 and I'm a Computer Engineer student at ESEG - Faculdade do Grupo Etapa in São Paulo. 
+Hellooo! My name is Guilherme, I'm 21 and I'm a Computer Engineer student at ESEG - Faculdade do Grupo Etapa in São Paulo. 
 
 <br>
 
