@@ -3,7 +3,7 @@
 <br>
 
 Hey everyone, for those who don't know me, i'm Guilherme, i'm 22 and currently in my fourth year of Computer Engineering at ESEG - Faculdade do Grupo Etapa in São Paulo, Brazil.
-I speak Portuguese (obviously), English and i'm studying Spanish.
+I speak Portuguese (obviously), English and i'm learning Spanish.
 If you wish to contact me, my linkedin is linked below.
 
 <br>
