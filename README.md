@@ -2,8 +2,8 @@
 # Guilherme Machado
 <br>
 
-Hey everyone, for those who don't know me, i'm Guilherme, i'm 22 and currently in my fourth year of Computer Engineering at ESEG - Faculdade do Grupo Etapa in São Paulo, Brazil.
-I speak Portuguese (obviously), English and i'm learning Spanish.
+Hey everyone, for those who don't know me, i'm Guilherme, i'm 22 and currently in my fourth year of Computer Engineering at ESEG - Faculdade do Grupo Etapa in São Paulo, Brazil. \n
+I speak Portuguese (obviously), English and i'm learning Spanish. \n
 If you wish to contact me, my linkedin is linked below.
 
 <br>
