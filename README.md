@@ -8,7 +8,7 @@ If you wish to contact me, my linkedin is linked below.
 
 <br>
 
-## 🔗 Conect With Me
+## 🔗 Contact me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/guimmachado)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guimmachado/)
